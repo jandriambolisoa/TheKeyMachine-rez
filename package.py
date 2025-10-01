@@ -1,6 +1,6 @@
 name = "TheKeyMachine"
 
-version = "0.1.41"
+version = "0.1.41-r.1"
 
 authors = [
     "Rodrigo Torres",
